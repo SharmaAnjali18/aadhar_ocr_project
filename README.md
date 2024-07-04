@@ -1,0 +1,1 @@
+# aadhar_ocr_project
